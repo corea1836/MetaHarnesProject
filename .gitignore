@@ -1,0 +1,4 @@
+.env
+_workspace/
+_workspace_*/
+.DS_Store
